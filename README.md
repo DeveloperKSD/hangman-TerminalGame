@@ -41,3 +41,9 @@ python hangman.py
 - 6 wrong guesses and the gallows is complete — game over.
 - Press `enter` after a round ends to play again with a new word.
 - Press `esc` or `ctrl+c` to quit any time.
+
+
+## Image
+
+<img width="1113" height="779" alt="image" src="https://github.com/user-attachments/assets/5883ba0e-4c9b-4263-bc79-48f57ed0e015" />
+
